@@ -243,3 +243,4 @@ cd ..
 ls --color=auto -la
 rm header.png
 rm footer.jpeg
+ls --color=auto -la
