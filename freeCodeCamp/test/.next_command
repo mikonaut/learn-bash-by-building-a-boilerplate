@@ -241,3 +241,4 @@ cd images/
 ls --color=auto -la
 cd ..
 ls --color=auto -la
+rm header.png
