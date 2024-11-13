@@ -289,3 +289,4 @@ ls --color=auto -la
 whoami
 find -name images
 mv header.png client/assets/images/
+find -name header.png
