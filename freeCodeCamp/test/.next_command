@@ -236,3 +236,4 @@ ls --color=auto -la
 rm background.jpg
 ls --color=auto -la
 cp header.png images
+cp footer.jpeg images
