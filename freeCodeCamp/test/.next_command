@@ -280,3 +280,4 @@ cd images/
 touch background.jpg
 find
 cd ../../..
+cd images/
