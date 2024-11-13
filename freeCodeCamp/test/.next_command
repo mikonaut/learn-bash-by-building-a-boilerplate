@@ -105,3 +105,4 @@ cd test/
 pwd
 ls --color=auto
 cd ..
+ls --color=auto
