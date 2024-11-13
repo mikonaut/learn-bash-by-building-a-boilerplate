@@ -281,3 +281,4 @@ touch background.jpg
 find
 cd ../../..
 cd images/
+ls --color=auto -la
