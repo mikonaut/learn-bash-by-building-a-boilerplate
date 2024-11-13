@@ -318,3 +318,5 @@ touch package.json
 touch server.js
 touch README.md
 ls --color=auto -la
+__vsc_prompt_cmd_original
+echo Yay!
