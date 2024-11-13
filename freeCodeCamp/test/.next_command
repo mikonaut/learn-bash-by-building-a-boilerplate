@@ -134,3 +134,4 @@ mkdir website
 ls --color=auto
 ls --color=auto -la
 cd website/
+ls --color=auto
