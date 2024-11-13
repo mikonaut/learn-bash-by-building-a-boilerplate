@@ -282,3 +282,4 @@ find
 cd ../../..
 cd images/
 ls --color=auto -la
+mv header.png ..
