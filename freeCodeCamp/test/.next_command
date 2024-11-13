@@ -128,3 +128,4 @@ ls --color=auto
 pwd
 cd ..
 cd ../..
+ls --color=auto
