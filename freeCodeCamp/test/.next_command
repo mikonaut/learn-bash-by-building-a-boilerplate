@@ -157,3 +157,6 @@ __vsc_prompt_cmd_original
 ls --color=auto -la
 touch CodeAlly.svg
 touch CodeRoad.svg
+touch freeCodeCamp.org
+rm freeCodeCamp.org
+touch freeCodeCamp.svg
