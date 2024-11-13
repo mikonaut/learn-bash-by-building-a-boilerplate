@@ -239,3 +239,4 @@ cp header.png images
 cp footer.jpeg images
 cd images/
 ls --color=auto -la
+cd ..
