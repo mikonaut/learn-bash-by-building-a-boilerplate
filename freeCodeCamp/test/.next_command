@@ -283,3 +283,4 @@ cd ../../..
 cd images/
 ls --color=auto -la
 mv header.png ..
+ls --color=auto -la
