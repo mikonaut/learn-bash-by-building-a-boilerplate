@@ -481,3 +481,4 @@ cp -r website-boilerplate/ toms-website
 ls --color=auto -la
 find toms-website/
 find website-boilerplate/
+clear
