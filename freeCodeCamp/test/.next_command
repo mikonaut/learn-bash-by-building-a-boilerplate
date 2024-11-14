@@ -478,3 +478,4 @@ ls --color=auto -l
 cp --help
 copy -r website-boilerplate/ toms-website
 cp -r website-boilerplate/ toms-website
+ls --color=auto -la
