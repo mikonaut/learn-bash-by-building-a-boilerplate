@@ -475,3 +475,4 @@ ls --color=auto
 ls --color=auto
 ls --color=auto website-boilerplate/
 ls --color=auto -l
+cp --help
